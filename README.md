@@ -51,9 +51,5 @@ O programa calculará e exibirá a velocidade correspondente:
 A velocidade do projétil é: 33.3333 m/s
 ```
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
-
 ---
 📌 Para mais informações, visite o repositório original: [calculadora-de-velocidade](https://github.com/joaopedrobn/calculadora-de-velocidade).
